@@ -1,4 +1,4 @@
-#include <stdio.h>
+o6-size.c#include <stdio.h>
 /**
  * main - Entry point
  * Return: Always 0 (Success)
